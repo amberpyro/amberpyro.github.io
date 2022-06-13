@@ -1,0 +1,124 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"IQ Test vs The Moron Test",
+         "image":"https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      },
+      {
+         "id":2,
+         "title":"Skins Editor for Minecraft PE",
+         "image":"https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      },
+      {
+         "id":3,
+         "title":"Nova Skin for Minecraft PE",
+         "image":"https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      },
+      {
+         "id":4,
+         "title":"Scanner Document App - HD PDF",
+         "image":"https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+      },
+      {
+         "id":6,
+         "title":"Super Math Solver Calculator",
+         "image":"https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+      },
+      {
+         "id":8,
+         "title":"Twibbon Maker",
+         "image":"https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+      },
+      {
+         "id":9,
+         "title":"Kamus Bahasa Indonesia",
+         "image":"https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+      },
+      {
+         "id":10,
+         "title":"Data Gempabumi Terbuka",
+         "image":"https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Playstore",
+         "image":"file:///android_asset/image/image1.png"
+      },
+      {
+         "id":2,
+         "name_category":"Tutorial",
+         "image":"file:///android_asset/image/image2.webp"
+      },
+      {
+         "id":3,
+         "name_category":"Reskin",
+         "image":"https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Playstore",
+         "title":"Cara Pesan Tiket Bioskop Di Shopee",
+         "image":"https://static.republika.co.id/uploads/images/inpicture_slide/penonton-bioskop-xxi-duduk-berjaga-jarak-saat-pemeriksaan-kesiapan_200829202017-690.jpg",
+         "description":"Cara mudah Membeli Di Shopee",
+         "link":"<p>Cara Beli Tiket Bioskop di Shopee</p><p>Shopee merupakan platform belanja online yang sudah banyak digunakan masyarakat Indonesia. Umumnya, marketplace ini digunakan untuk berbelanja produk kebutuhan sehari-hari. Namun ternyata, Anda juga bisa menggunakan Shopee untuk membeli tiket bioskop. Cara beli tiket bioskop di Shopee cukup mudah.</p><p>Berikut lengkah-langkahnya:&nbsp;</p><p>1.Pastikan aplikasi Shopee telah terpasang di ponsel Anda.&nbsp;</p><p>2.Setelah itu, masuk ke akun Shopee yang Anda miliki. Klik &ldquo;Search&rdquo; yang terdapat di halaman utama.&nbsp;</p><p>3.Kemudian ketik kata kunci &ldquo;Tiket Bisokop&rdquo;, lalu pilih bioskop.&nbsp;</p><p>4.Setelah itu, Anda akan masuk ke halaman Film. Di bagian ini Anda bisa memilih film yang hendak di tonton.&nbsp;</p><p>5.Kemudian klik &ldquo;Beli&rdquo;. Pilih kota yang memiliki bioskop, kemudian klik &ldquo;Beli&rdquo;.&nbsp;</p><p>6.Pilih kursi kemudian lakukan konfirmasi kursi.Klik &ldquo;Checkout&rdquo;.&nbsp;</p><p>7.Pilih metode pembayaran kemudian selesaikan pembayaran.&nbsp;</p><p>8.Terakhir, Anda akan mendapatkan e-tiket untuk nonton di bioskop yang telah dipilih.</p>"
+      },
+      {
+         "id":2,
+         "name_category":"Tutorial",
+         "title":"Cara Beli Tiket Bioskop Di M-Tik",
+         "image":"https://img.antaranews.com/cache/800x533/2020/10/19/antarafoto-bioskop-di-banjarmasin-kembali-beroperasi-191020-mz-2.jpg.webp",
+         "description":"Cara mudah beli tiket bioskop dengan m-Tik",
+         "link":"<p>Cara Beli Tiket Bioksop di M-Tik</p><p>Jika Anda hendak menyaksikan film di bioskop milik Cinema 21 Group, maka Anda dapat membeli tiket nonton lewat aplikasi M-Tix. Dengan menggunakan aplikasi ini, proses pembelian tiket menjadi lebih praktis dan mudah.&nbsp;</p><p>Adapun cara beli tiket bioskop m tik, sebagai berikut:&nbsp;</p><p>Advertisement&nbsp;</p><p>1.Download terlebih dahulu aplikasi Cinema 21 di Google Play Store atau App Store.&nbsp;</p><p>2.Setelah itu login atau daftar akun M-Tix.&nbsp;</p><p>3.Pilih lokasi kota terdekat.&nbsp;</p><p>4.Setelah itu klik Film di halaman pertama.&nbsp;</p><p>5.Klik pilihan &ldquo;Buy Ticket&rdquo;.&nbsp;</p><p>6.Pilih hari dan jam yang tersedia.&nbsp;</p><p>7.Kemudian pilih kursi sesuai dengan keinginan.&nbsp;</p><p>8.Klik opsi &ldquo;Confirm Order&rdquo;.&nbsp;</p><p>9.Setelah itu isi PIN konfirmasi.&nbsp;</p><p>10.Lakukan pembayaran dan tiket akan dikirimkan ke email Anda.</p><p><br></p>"
+      },
+      {
+         "id":3,
+         "name_category":"Tutorial",
+         "title":"Cara Beli Tiket Bioskop Lewat Gojek",
+         "image":"https://static.republika.co.id/uploads/images/inpicture_slide/penonton-bioskop-xxi-duduk-berjaga-jarak-saat-pemeriksaan-kesiapan_200829202017-690.jpg",
+         "description":"Cara Beli Tiket Bioskop Lewat Gojek",
+         "link":"<p>Cara Beli Tiket Bioskop Lewat Gojek&nbsp;</p><p>Awalnya kita mengenal Gojek sebagai aplikasi transportasi online. Namun saat ini, layanan Gojek sudah semakin luas. Gojek bahkan memberikan layanan pembelian tiket nonton bisokop lewat fitur GoTix. Dengan menggunakan fitur ini, Anda bisa membeli tiket bisokop CGV maupaun Cinemaxxx.&nbsp;</p><p>Adapun cara beli tiket bisokop lewat Gojek, sebagai berikut:&nbsp;</p><p>1.Unduh aplikasi Gojek lewat Google Play Store atau App Store.&nbsp;</p><p>2.Buka aplikasi Gojek yang sudah diunduh.&nbsp;</p><p>3.Kemudian masuk ke akun yang telah dimiliki.&nbsp;</p><p>4.Jika belum mempunyai akun Gojek, silakan untuk membuatnya terlebih dahulu.&nbsp;</p><p>5.Setelah berhasil masuk ke aplikasi, Anda bisa buka &ldquo;Menu Lain&rdquo; setelah itu cari pilihan &ldquo;GoTix&rdquo;.&nbsp;</p><p>6.Kemudian pilih film yang akan ditonton.&nbsp;</p><p>7.Klik opsi &ldquo;Buy Ticket&rdquo;.&nbsp;</p><p>8.Pilih hari, jam, dan lokasi bioskop tempat Anda nonton.&nbsp;</p><p>9.Pilih kursi sesuai keinginan atau ketersediaan.&nbsp;</p><p>10.Pilih metode pembayaran.&nbsp;</p><p>11.Lanjukan dengan klik &ldquo;Order&rdquo;.&nbsp;</p><p>12.Terakhir, Anda akan mendapatkan e-tiket film yang sudah dibeli.</p>"
+      },
+      {
+         "id":4,
+         "name_category":"Reskin",
+         "title":"Cara Beli Tiket Bioskop Online di Aplikasi CGV Cinemas",
+         "image":"https://img.antaranews.com/cache/800x533/2020/10/19/antarafoto-bioskop-di-banjarmasin-kembali-beroperasi-191020-mz-2.jpg.webp",
+         "description":"Cara Mudah Beli Tiket Bioskop Online di Aplikasi CGV Cinemas",
+         "link":"<p>Cara Beli Tiket Bioskop Online di Aplikasi CGV Cinemas&nbsp;</p><p>Apabila Anda ingin menyaksikan film di CGV Cinemas, Anda juga bisa membeli tiket nonton secara online melalui aplikasi resmi dari CGV Cinemas. Aplikasi ini bisa digunakan pada perangkat Android maupun iOS.</p><p>Adapun cara beli tiket bioksop melalui aplikaasi CGV Cinemas, sebagai berikut:&nbsp;</p><p>1.Unduh terlebih dahulu aplikasi CGV Cinemas.&nbsp;</p><p>2.Kemudian login atau daftar menggunakan akun Google.&nbsp;</p><p>3.Lanjutkan dengan klik menu &ldquo;Ticket&rdquo;. Lalu, klik &ldquo;Book by Movie&rdquo;.&nbsp;</p><p>4.Pilih film yang hendak ditonton.&nbsp;</p><p>5.Pilih hari dan jam yang tertera kemudian klik opsi &ldquo;Beli Tiket&rdquo;.&nbsp;</p><p>6.Pilih metode pembayaran dan klik &ldquo;Pay&rdquo;.&nbsp;</p><p>7.Selesaikan proses pembayaran dan Anda akan mendapatkan tiket nonton film di CGV Cinemas.</p>"
+      }
+   ]
+}
