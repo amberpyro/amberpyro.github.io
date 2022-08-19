@@ -1,0 +1,124 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"IQ Test vs The Moron Test",
+         "image":"https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      },
+      {
+         "id":2,
+         "title":"Skins Editor for Minecraft PE",
+         "image":"https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      },
+      {
+         "id":3,
+         "title":"Nova Skin for Minecraft PE",
+         "image":"https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      },
+      {
+         "id":4,
+         "title":"Scanner Document App - HD PDF",
+         "image":"https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+      },
+      {
+         "id":6,
+         "title":"Super Math Solver Calculator",
+         "image":"https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+      },
+      {
+         "id":8,
+         "title":"Twibbon Maker",
+         "image":"https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+      },
+      {
+         "id":9,
+         "title":"Kamus Bahasa Indonesia",
+         "image":"https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+      },
+      {
+         "id":10,
+         "title":"Data Gempabumi Terbuka",
+         "image":"https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Playstore",
+         "image":"file:///android_asset/image/image1.png"
+      },
+      {
+         "id":2,
+         "name_category":"Tutorial",
+         "image":"file:///android_asset/image/image2.webp"
+      },
+      {
+         "id":3,
+         "name_category":"Reskin",
+         "image":"https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Playstore",
+         "title":"Cara dan tips membuat buket uang menjadi peluang bisnis",
+         "image":"https://awsimages.detik.net.id/community/media/visual/2020/02/14/8c4618c0-b50a-4506-ad3d-fd4115c85043_43.jpeg?w=700&q=90",
+         "description":"Bab 1",
+         "link":"<p>Saat ini, ada banyak peluang bisnis yang unik dan kreatif, salah satunya buket uang. Nah, bagaimana cara membuat buket uang?</p><p><br></p><p>Semakin pesatnya perkembangan teknologi dan internet memunculkan banyak peluang bisnis baru yang menjanjikan. Kini, para pelaku bisnis sudah semakin kreatif dan inovatif.</p><p><br></p><p>Segala hal dapat dipelajari dengan mudah melalui internet. Berbisnis yang dulu terkesan sulit kini jadi bisa dilakoni oleh semua orang. Kamu pun bisa mempelajari keterampilan baru dan menjadikannya sebagai bisnis yang menghasilkan.</p><p><br></p><p>Sebagai contoh, jika kamu memiliki keterampilan dalam membuat kerajinan tangan atai DIY, kamus sangat bisa menghasilkan produk yang kreatif dan memiliki nilai jual yang tinggi.</p><p><br></p><p>Misalnya, kamu bisa membuat buket yang unik dan dijual sebagai hadiah. Kamu bisa membuat buket bunga, buket jajanan, atau lebih unik lagi yaitu buket uang.</p>"
+      },
+      {
+         "id":2,
+         "name_category":"Tutorial",
+         "title":"Cara dan tips membuat buket uang menjadi peluang bisnis",
+         "image":"https://awsimages.detik.net.id/community/media/visual/2020/02/14/8c4618c0-b50a-4506-ad3d-fd4115c85043_43.jpeg?w=700&q=90",
+         "description":"Bab 2",
+         "link":"<p>Cara Membuat Buket Uang</p><p><br></p><p>Alat dan Bahan:</p><p><br></p><p>1.Uang kertas baru dengan jumlah yang dapat disesuaikan. Kamu bisa menentukan sendiri pecahan uang kertas tersebut.</p><p>2.Potongan kawat lurus untuk setiap bunga.</p><p>3.Pita gulung dengan warna yang dapat kamu sesuaikan.</p><p>4.Daun dan bunga tiruan/plastik.</p><p>5.Kertas pembungkus buket uang, biasanya menggunakan kertas craft.</p><p>6.Styrofoam.</p><p>7.Alat dan bahan lain dapat menyesuaikan kebutuhan.</p><p><br></p><p>Cara Membuat:</p><p>1. Lipat uang kertas menjadi setengah panjang (lipatan horizontal ke bagian tengah). Kemudian gulung tepi luar uang kertas sambil menahan salah satu uungnya dengan jari, sehingga menjadi berbentuk kerucut atau corong.</p><p>2. Ambil kawat dan masukkan ke dalam corong uang kertas tadi, kemudian kerutkan kembali. Lakukanlah cara yang sama untuk setiap uang kertas.</p><p>3. Pada bagian uang yang satunya, kamu bisa kreasikan sebagai kelopak. Kamu bisa menggulungnya sedikit agar bergelombang, maupun membiarkannya tetap datar dan lurus.</p><p>4. Setelah semua uang kertas selesai dipasang kawat, kamu bisa melanjutkan dengan menggunting dan melipat kertas craft. Kertas ini akan menjadi pembungkus buket uang.</p><p>5. Pastikan bagian bawah kertas membentuk tangkai untuk menyatukan kawat uang kertas. Lalu masukkan styrofoam ke bagian tangkai. Selanjutnya kamu bisa memasukkan uang kertas yang sudah dipasang kawat dengan menusukkan kawatnya ke styrofoam.</p><p>6. Jika ingin lebih menarik, kamu juga bisa menambahkan jajanan dan bunga tiruan ke buket uang.</p><p>7. Jika menambahkan jajanan, rekatkanlah semua jajanan dan posisikan di bawah uang kertas. Jika menambahkan bunga tiruan, kamu bisa menyelipkannya di antara uang kertas.</p><p>8. Langkah terakhir adalah menghias buket uang. Kamu bisa mengikatnya dengan pita di bagian tangkai buket. Kamu juga bisa menambahkan parfum agar semakin menarik.</p><p><br></p>"
+      },
+      {
+         "id":3,
+         "name_category":"Tutorial",
+         "title":"Cara dan tips membuat buket uang menjadi peluang bisnis",
+         "image":"https://awsimages.detik.net.id/community/media/visual/2020/02/14/8c4618c0-b50a-4506-ad3d-fd4115c85043_43.jpeg?w=700&q=90",
+         "description":"Bab 3",
+         "link":"<p>Peluang Usaha Buket Uang</p><p><br></p><p>Setelah mengetahui cara membuat buket uang, lantas apakah buket uang memiliki peluang usaha yang bagus?</p><p><br></p><p>Pada dasarnya, buket uang biasa dijadikan sebagai hadiah dalam momentum tertentu. Misalnya, dijadikan sebagai hadiah di Hari Valentine, Hari Ibu, hadiah wisuda, hadiah ulang tahun, hingga diberikan sebagai hantaran dalam acara pernikahan.</p><p><br></p><p>Momentum tersebut tentu saja bisa ada setiap hari. Itu artinya, buket uang termasuk produk yang bisa dibeli oleh siapa saja dan kapan saja. Kuncinya adalah bagaimana memasarkan produk dengan tepat.</p><p><br></p><p>Ingatlah bahwa buket uang menampikan sisi keunikan dan kreativitas.</p><p>Artinya, kamu harus menampilkannya dalam materi promosi yang akan kamu gunakan nantinya. Kamu bisa memasarkan dan mempromosikan buket uang di media sosial atau di e-commerce.</p>"
+      },
+      {
+         "id":4,
+         "name_category":"Reskin",
+         "title":"Cara dan tips membuat buket uang menjadi peluang bisnis",
+         "image":"https://awsimages.detik.net.id/community/media/visual/2020/02/14/8c4618c0-b50a-4506-ad3d-fd4115c85043_43.jpeg?w=700&q=90",
+         "description":"Bab 4",
+         "link":"<p>Tips Memulai Usaha Buket Uang</p><p><br></p><p>Sebelum memulai usaha buket uang, tentunya ada beberapa tips yang bisa kamu coba. Berikut tipsnya, simak ya!</p><p><br></p><p>1. Pelajari Cara Membuat Buket Uang</p><p>Cara sederhana membuat buket uang sebenarnya sudah dijelaskan dalam bahasan sebelumnya. Namun, karena bisnis buket uang ini adalah bisnis kreatif, artinya kamu harus mampu mengkreasikan buketmu.</p><p><br></p><p>Cobalah menonton berbagai video tutorial membuat buket. Kemudian, kamu bisa coba mengkreasikan buket unik buatanmu sendiri. Semakin menarik buketmu, semakin banyak orang yang tertarik untuk membelinya.</p><p><br></p><p>2. Buat Katalog</p><p>Setelah membuat beberapa model buket uang, pastikan kamu sudah mengambil gambarnya dengan detail.</p><p><br></p><p>Gambar tersebut bisa kamu masukan dalam katalog. Nantinya, katalog ini dapat kamu berikan kepada calon pelanggan yang tertarik membeli buketmu.</p><p><br></p><p>Pastikan kamu sudah menuliskan detail ukuran buket uang, variasi warna, harga, dan detail produk lain dalam katalogmu.</p><p><br></p><p>3. Sediakan Pilihan Kustom</p><p>Menyediakan kesempatan kepada pelanggan untuk kustom buketnya sendiri bisa jadi nilai tambah, lho. Kamu bisa memberikan kebebasan sekaligus batasan kustom buket bunga.</p><p><br></p><p>Misalnya, pelanggan dapat memilih warna kertas pembungkus, warna pita, bentuk bunga, hingga susunan uang kertas. Jika memungkinkan, kamu juga bisa menyediakan kartu ucapan yang bisa dikustom oleh pelanggan.</p><p><br></p><p>4. Berikan Jaminan Pengemasan yang Aman</p><p>Setiap pelanggan tentu ingin barang pesanannya sampai dengan utuh. Apalagi, buket uang adalah barang yang rentan dan mudah rusak. Maka dari itu, kamu perlu memerhatikan pengemasan buket.</p><p><br></p><p>Kamu bisa mengemas buket uang di dalam dus tebal. Dengan begitu, buket uang akan lebih aman dari benturan saat pengiriman.</p><p><br></p><p>Jika menggunakan jasa kirim instan, kamu bisa membungkus buket uang di dalam tote bag tertutup yang aman dan mudah dibawa.</p><p><br></p><p>5. Lakukan Promosi yang Konsisten</p><p>Tips terakhir adalah dengan melakukan promosi yang konsisten. Kamu bisa mempromosikan buket uangmu di media sosial manapun dan dalam bentuk konten apa pun.</p><p><br></p><p>Namun, pastikan kamu dapat konsisten dalam melakukan promosi tersebut. Jangan sampai kegiatan promosimu berhenti di tengah jalan ya!</p><p><br></p><p>Itulah beberapa cara membuat buket uang dan tips memulai usahanya. Selamat mencoba ya!</p>"
+      }
+   ]
+}
