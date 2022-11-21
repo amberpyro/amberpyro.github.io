@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara Menggemukan Badan Secara Alami",
+      "image": "https://media.suara.com/pictures/970x544/2022/07/21/82504-ilustrasi-program-penambahan-berat-badan.jpg",
+      "description": "Halaman 1",
+      "link": "<p>Cara Menggemukan Badan Secara Alami</p><p>Setiap orang yang ingin menambah berat badannya, tentu memiliki alasan yang berbeda-beda. Namun, sebelum Anda mengetahui cara menambah berat badan, Anda perlu mengenali alasan-alasan yang menyebabkan diri Anda kurus atau sulit gemuk, di antaranya sebagai berikut:</p><p>-Genetik atau keturunan Sejak lahir hingga Anda tumbuh dewasa, postur tubuh Anda masih tetap kurus. Apakah di keluarga Anda atau orang tua memiliki tubuh kurus?  Kalau iya, Anda tidak perlu khawatir. Hal yang menyebabkan Anda kurus, mungkin bisa terjadi karena faktor genetik atau keturunan. Jadi, hal ini merupakan sesuatu yang wajar terjadi jika dalam keluarga Anda terdapat anggota keluarga yang memiliki tubuh kurus.</p><p>-Masalah psikologis  Masalah psikologis seperti stres, depresi, anoreksia merupakan masalah psikologis yang dapat berdampak buruk pada pola makan, karena kondisi tersebut dapat memicu seseorang mengalami kesulitan dalam meningkatkan berat badan.</p><p>-Mengkonsumsi obat-obatan tertentu Jika Anda sedang dalam masa pengobatan karena penyakit berat seperti diabetes, kanker, atau penyakit tiroid. Penyakit-penyakit tersebut dapat membuat tubuh penderitanya menjadi kurus.</p><p>-Aktivitas fisik yang tinggi Melakukan aktivitas fisik yang berlebih atau berat dapat menjadi salah satu faktor seseorang sulit meningkatkan berat badan, karena ketika seseorang melakukan aktivitas fisik, tubuh akan membakar kalori.  Memiliki berat badan yang ideal menjadi impian setiap orang. Namun, sebelumnya apakah Anda sudah mengetahui berat badan Anda masuk kategori yang mana? Untuk mengetahui apakah berat badan Anda ideal atau tidak, Anda bisa menggunakan rumus berikut: Berat ideal = (tinggi badan &ndash; 100) &ndash; (15% x (tinggi badan &ndash; 100).</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Menggemukan Badan Secara Alami",
+      "image": "https://media.suara.com/pictures/970x544/2022/07/21/82504-ilustrasi-program-penambahan-berat-badan.jpg",
+      "description": "Halaman 2",
+      "link": "<p>IMT Sebagai Alat Pengukur Berat Badan IMT(Indeks Massa Tubuh) atau Body Mass Index (BMI) merupakan alat untuk mengetahui status gizi seseorang dengan membagi berat badan dengan tinggi badan Anda. Jika Indeks Massa Tubuh (IMT) kurang dari 18,5 artinya Anda kurus. Jika IMT sebesar 18,5 &ndash; 25 tandanya berat badan Anda normal. Jika IMT 25,1 &ndash; 27 artinya Anda memiliki berat badan berlebih, sementara jika IMT Anda lebih dari 27, maka Anda dikatakan obesitas.  Dengan IMT akan diketahui apakah berat badan seseorang dinyatakan normal, kurus atau gemuk. Penggunaan IMT hanya untuk orang dewasa berumur > 18 tahun dan tidak dapat diterapkan pada bayi, anak, remaja, ibu hamil, dan olahragawan. Untuk mengetahui nilai IMT ini, dapat dihitung dengan rumus berikut:</p><p> Berat Badan (Kg)</p><p>IMT = &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</p><p> Tinggi Badan (m) X Tinggi Badan (m)</p><p>Batas ambang IMT ditentukan dengan merujuk ketentuan FAO/WHO, yang membedakan batas ambang untuk laki-laki dan perempuan. Disebutkan bahwa batas ambang normal untuk laki-laki adalah: 20,1&ndash;25,0; dan untuk perempuan adalah: 18,7-23,8. Untuk kepentingan pemantauan dan tingkat defisiensi kalori ataupun tingkat kegemukan, lebih lanjut FAO/WHO menyarankan menggunakan satu batas ambang antara laki-laki dan perempuan. </p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Menggemukan Badan Secara Alami",
+      "image": "https://media.suara.com/pictures/970x544/2022/07/21/82504-ilustrasi-program-penambahan-berat-badan.jpg",
+      "description": "Halaman 3",
+      "link": "<p>Sudahkah Anda mengukur berat badan Anda? Jika sudah, masuk kategori yang manakah? Apabila berat Anda kurang dari 20,1&ndash;25,0 kg untuk laki-laki dan 18,7-23,8 kg untuk perempuan artinya Anda perlu menambah berat badan Anda. Menambah berat badan bukan sesuatu yang mudah, tapi bukan berarti tidak bisa dilakukan. Berikut 6 cara yang bisa Anda lakukan untuk menambah berat badan dengan cepat, secara alami, sehat, dan tanpa perlu mengonsumsi obat penambah berat badan yang belum tentu baik bagi kesehatan tubuh Anda.</p><p>1. Makan porsi kecil dengan frekuensi sering Jika kamu mempunyai selera makan yang buruk, cobalah ubah pola makan Anda. Tidak perlu makan banyak dalam satu waktu, namun cukup makan dengan porsi yang kecil. Tapi, hal itu Anda lakukan secara rutin dan konsisten.  Untuk mengetahui asupan nutrisi yang tepat, Anda bisa konsultasikan pola makan Anda kepada dokter atau ahli gizi, sehingga kebutuhan nutrisi Anda tetap terpenuhi.</p><p>2. Pilih makanan yang tinggi kalori Untuk meningkatkan berat badan, Anda tidak perlu mengubah pola makan. Anda cukup meningkatkan jumlah asupan kalori dalam menu makanan Anda. Misalnya, menambah keju, kentang, ikan yang memiliki kandungan kalori yang tinggi seperti salmon, tuna, atau sarden.</p><p>3. Selipkan camilan di waktu tertentu Makan cemilan untuk menggemukkan badan dengan cepat tidak masalah. Namun, bukan berarti Anda bebas mengkonsumsi aneka camilan seperti keripik singkong karena keripik singkong mengandung lemak trans dan lemak jenuh.  Kandungan lemak pada keripik dapat mengakibatkan kolesterol dalam tubuh Anda meningkat dan berisiko terkena penyakit jantung. Untuk itu, dalam memilih camilan, Anda perlu pilih camilan yang sehat seperti yoghurt, buah-buahan, dan kurma.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara Menggemukan Badan Secara Alami",
+      "image": "https://media.suara.com/pictures/970x544/2022/07/21/82504-ilustrasi-program-penambahan-berat-badan.jpg",
+      "description": "Halaman 4",
+      "link": "<p>4. Rutin olahraga Selama ini, mungkin Anda mengira olahraga hanya untuk menurunkan berat badan. Padahal, olahraga juga dapat menambah berat badan Anda. Dengan rutin berolahraga, hal ini akan membantu meningkatkan massa otot sehingga tubuh Anda lebih bugar dan berisi.  Olahraga yang bisa Anda lakukan untuk menambah berat badan, yaitu angkat beban, renang, atau yoga. Selain itu, olahraga juga dapat membantu Anda dalam meningkatkan nafsu makan semakin baik.</p><p>5. Minum susu  Minum susu merupakan salah satu cara menggemukan badan yang efektif untuk membantu Anda menambah berat badan, tanpa perlu mengkonsumsi obat penambah berat badan.  Untuk jenis susu, Anda tidak perlu mengkonsumsi susu murni. Anda bisa menggantinya dengan produk olahan susu seperti es krim, yogurt, atau puding. Produk-produk tersebut bisa Anda konsumsi baik dalam bentuk minuman atau camilan, yang bisa dimakan setelah makan.</p><p>6. Tidur yang cukup Kurang tidur akibat mengerjakan tugas hingga larut malam atau main sosial media sampai lupa waktu tidur merupakan kebiasan buruk yang dapat mengganggu pola tidur Anda.  Jika pola tidur kurang baik, hal ini dapat berdampak buruk pada kualitas tidur Anda. Sementara, jika Anda memiliki kualitas tidur yang baik, maka hal ini dapat membantu pertumbuhan otot-otot tubuh Anda. Dengan begitu, berat badan dapat bertambah. Itulah enam cara yang bisa Anda lakukan untuk membantu menambah berat badan Anda. Untuk mendapatkan hasil yang sesuai dengan keinginan, Anda perlu melakukannya secara konsisten dan rutin.</p>"
+    }
+  ]
+}
