@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara Cek Channel TV Digital Dan Tips Memilih STB",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/07/18/tv-digital-1_43.mpo?w=700&q=90",
+      "description": "Cara cek channel TV digital lewat ponsel",
+      "link": "<p>Cara Cek Channel TV Digital Dan Tips Memilih STB</p><p>Masing-masing daerah kemungkinan akan mendapatkan channel TV digital yang berbeda-beda. Berikut cara mengecek channel TV digital lewat ponsel melalui aplikasi SinyalTVDigital.</p><p>Cara cek channel TV digital lewat ponsel</p><p>-Unduh dan instal aplikasi sinyalTVdigital di Play Store (Android) atau App Store (iOS) -Sebelum menggunakan aplikasi, pastikan Anda telah mengaktifkan fitur &ldquo;lokasi&rdquo; pada ponsel. -Buka aplikasi sinyalTVdigital. -Klik ikon &ldquo;bidik&rdquo; yang berada pada sisi tengah bawah -Ikon ini berguna untuk mendeteksi lokasi pengguna lebih akurat. -Nantinya pengguna akan melihat informasi mengenai lembaga penyiaran multipleksing (mux) yang menjangkau tempat tinggal Anda. Misalnya saja, wilayah tempat tinggal pengguna dijangkau oleh pemancar (transmitter) dari TVRI. -Klik &ldquo;see mux detail&rdquo; untuk melihat informasi detail mengenai sinyal TV Digital di daerah Anda. Informasi tersebut biasanya mencakup kekuatan sinyal, jenis layanan, operator mux, frekuensi/channel, dan lainnya -Adapun jika wilayah tersebut memiliki sinyal yang kuat maka akan ditandai dengan legenda warna merah di peta. Jika legenda berwarna hijau-kuning maka kekuatan sinyal sedang dan untuk abu-abu atau biru mengartikan sinyal lemah. -Kemudian klik ikon &ldquo;galeri&rdquo; di sisi kanan bawah layar. Anda akan melihat daftar lengkap konten siaran TV Digital yang bisa disaksikan di televisi Anda.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Channel TV Digital Dan Tips Memilih STB",
+      "image": "https://asset.kompas.com/crops/eGDkcFaaHTDAXcqw6SCxXHAfUmE=/0x33:1303x901/750x500/data/photo/2022/08/16/62fb1ecd8d626.png",
+      "description": "Pakai TV Digital atau STB",
+      "link": "<p>Pakai TV Digital atau STB</p><p>Perlu diperhatikan, agar bisa menikmati siaran TV digital, masyarakat harus memastikan bahwa televisinya sudah bisa menangkap sinyal TV digital. Cara mengecek apakah televisi sudah digital atau belum, bisa dilakukan sesuai langkah</p><p>-Cara cek TV digital atau analog -Buka laman resmi kominfo di https://siarandigital.kominfo.go.id/ -Pilih menu &ldquo;Perangkat TV Digital&rdquo; -Selanjutnya klik &ldquo;Pilih Kategori&rdquo; -Pilih &ldquo;Televisi&rdquo; -Tulis merk beserta tipe televisi -Apabila merk dan tipe televisi merupakan TV yang sudah menerima siaran TV digital, maka keterangan merk dan tipe akan muncul dalam daftar -Namun, apabila televisi belum terdaftar sebagai televisi digital, maka akan muncul keterangan &ldquo;Mohon maaf perangkat yang Anda cari tidak terdaftar pada database kami atau belum memiliki sertifikasi perangkat&rdquo;</p><p>Anda juga dapat mengecek TV digital atau analog saat melalukan pencarian (menggunakan remot) di televisi Anda. Jika terdapat pilihan DTV, berarti televisi tersebut dapat menerima siaran digital.</p><p>Apabila televisi tidak masuk dalam daftar, artinya TV Anda belum bisa menangkap sinyal digital. Dengan demikian, Anda harus membeli alat tambahan yakni STB atau digital box TV yang sudah mendukung DVB - T2 (Digital Video Broadcasting - Second Generation Terrestrial), standar TV digital di Indonesia.</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Channel TV Digital Dan Tips Memilih STB",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/11/05/1572043502.jpg",
+      "description": "Cara Memilih STB bag 1",
+      "link": "<p>Cara Memilih STB</p><p>Ternyata ada banyak nama lain dari STB lho! Kalau kalian perlu membeli STB, jangan bingung jika kalian menemukan istilah-istilah sebagai berikut : Dekoder / decoder Konverter / converter Receiver Pengubah sinyal</p><p>Keempat istilah tersebut adalah nama lain dari set top box atau STB itu sendiri. Semuanya bisa mengubah tv analog lama kalian jadi tv yang bisa menayangkan siaran tv digital. Tapi, ternyata ada banyak sekali merk dan variasi produk dari set top box ini.</p><p>Mana yang harus dipilih?</p><p>Ini dia tips-nya</p><p>Tips 1 : Cara Memilih STB Terbaik dengan Memastikan Ada Sertifikasi dari Kominfo</p><p>Nah, tips yang pertama ini adalah hal yang krusial dan paling penting!</p><p>Karena kita tinggal di negara Indonesia, tentu alat tangkap sinyalnya juga harus disesuaikan dengan penyedia siaran di Indonesia.</p><p>Untuk mengatur keamanan serta kenyamanan masyarakat, pemerintah melalui Kominfo sudah melakukan tes serta memberikan Sertifikasi Siap Digital untuk 10 merk STB berikut :</p><p>-Evercoss - Tipe STB1 -Polytron - Tipe PDV 600T2 -Matrix - Tipe Apple -Nexmedia - Tipe NA1300/DVB-T2 MPEG4 HD -Akari - Tipe ADS-2230, ADS-168 dan ADS-210 -Ichiko - Tipe 8000HD -Venus - Tipe Brio -Tanaka - Tipe T2 -Nextron - Tipe NT2000-D dan TR 1000 -Evinix H1</p><p>Kelebihan kalau kalian memilih STB bersertifikat Kominfo adalah : 1.Jaminan bahwa STB pasti bisa digunakan 2.Semua fitur siaran digital bisa berfungsi secara optimal 3.Gambar dan suara dijamin bisa ditayangkan dengan kualitas sangat baik</p><p>Tips 2 : Sesuaikan dengan Kebutuhan</p><p>Seperti yang telah dibahas di poin sebelumnya, tiap merk dan produk memiliki harga jual yang berbeda-beda.</p><p>Tentu beda harga akan ada perbedaan fitur yang ditawarkan.</p><p>Sesuaikan dengan kebutuhan ya! Supaya kalian bisa menikmati siaran digital seoptimal mungkin sesuai dengan kebutuhan masing-masing.</p><p>Kalau di rumah kalian pengguna televisinya terutama adalah orang tua yang kurang mengikuti teknologi, pilihlah STB yang user interface-nya paling sederhana.</p><p>Jadi apapun yang dipilih, pengguna harus nyaman saat menggunakannya.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara Cek Channel TV Digital Dan Tips Memilih STB",
+      "image": "https://media.suara.com/pictures/653x366/2022/11/17/64650-set-top-box-pixabay.jpg",
+      "description": "Cara Memilih STB bag 2",
+      "link": "<p>Tips 3 : Cari Review dan Testimoni Produk</p><p>Zaman sekarang ini kalian bisa dengan mudah membaca dan mendapatkan informasi tentang review atau ulasan produk.</p><p>Salah satu cara yang jitu dan tepat untuk mendapatkan review jujur adalah dengan bergabung ke komunitas-komunitas pengguna STB.</p><p>Kalian bisa dengan mudah menemukannya di sosial media seperti Facebook.</p><p>Di sana kalian bisa membaca berbagai diskusi terkait produk-produk STB.</p><p>Biasanya review dan testimoninya akan lebih jujur dibandingkan jika kalian melihat review produk STB di marketplace atau di youtube dan media sosial personal karena akan banyak diskusi yang muncul dari sesama pengguna.</p><p>Jika reviewnya terlihat dibuat-buat maka kalian akan lebih mudah mengidentifikasinya dari diskusi pengguna lain.</p><p>Tips 4 : Cari Tanda Khusus di Kemasan</p><p>Kalian bisa mengetahui apakah STB yang akan kalian beli asli atau tidak, tersertifikasi atau tidak dengan ciri-ciri simbol atau tanda khusus sebagai berikut :</p><p>-Adanya tulisan DVB-T2 yang berarti STB kompatibel dengan siaran TV digital Kominfo -Adanya tulisan &ldquo;Siap Digital&rdquo; sebagai motto dari Kominfo -Ada gambar si Modi, maskot program TV digital yang diselenggarakan oleh Kominfo -Logo SNI, artinya sudah lulus standar produk dan keamanan dari pemerintah</p>"
+    }
+  ]
+}
