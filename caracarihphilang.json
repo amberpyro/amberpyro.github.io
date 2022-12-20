@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara Melacak HP Hilang, Dalam Keadaan Mati atau Nyala",
+      "image": "https://cdn.idntimes.com/content-images/post/20190603/c1-e4b224b22e4bb243b208a4574d27fe45_600x400.jpg",
+      "description": " Cara Melacak HP Hilang dengan Keadaan Mati",
+      "link": "<p>Cara Melacak HP Hilang, Dalam Keadaan Mati atau Nyala</p><p>Kehilangan gawai seperti smartphone (handphone/ HP) bisa memusingkan. Apalagi jika banyak data penting yang tersimpan dalam perangkat tersebut. Tidak usah khawatir, sebab ada beberapa cara melacak HP yang hilang dalam keadaan mati atau nyala. Berikut caranya:</p><p> 1. Cara Melacak HP Hilang dengan Keadaan Mati</p><p>Anda juga bisa melacaknya bahkan saat HP dalam keadaan mati. Simak caranya berikut:</p><p>1. Buka aplikasi Google Maps</p><p>2. Klik ikon segitiga kecil di bagian kanan halaman</p><p>3. Pilih opsi &quot;Tambah Akun&quot;</p><p>4. Masukkan alamat email yang digunakan di HP yang hilang</p><p>5. Tuliskan kata sandi, lalu klik &quot;Saya Setuju&quot;</p><p>6. Setelah itu, klik ikon segitiga kecil di kiri atas halaman dan pilih opsi &quot;Linimasa&quot;</p><p>7. Nanti, aplikasi Google Maps akan mulai menunjukkan lokasi HP Android yang hilang.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Melacak HP Hilang, Dalam Keadaan Mati atau Nyala",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/01/06/ilustrasi-main-hp_169.jpeg?w=700&q=90",
+      "description": "Dengan Google atau Dengan Email",
+      "link": "<p>2. Dengan Google</p><p>Salah satu cara mencari HP yang hilang adalah dengan menggunakan Google melalui layanan Find My Device. Bahkan Anda bisa mengunci hingga menghapus seluruh data di dalam ponsel dari jarak jauh. Ini langkah-langkahnya:</p><p>1. Buka situs google.com/android/find di browser, lalu setujui Google untuk melacak lokasi HP yang hilang</p><p>2. Login ke akun Google yang tersambung atau ada di HP Anda</p><p>3. Jika akun tersebut digunakan di lebih dari satu HP, klik jenis HP yang hilang di bagian kiri atas</p><p>4. Jika HP Anda menggunakan lebih dari satu akun Google, login dengan akun yang dijadikan profil utama</p><p>5. Bahkan muncul notifikasi pada HP yang hilang dari Google Play Service dan informasi mengenai lokasi HP di Maps</p><p>6. Namun, lokasi HP yang hilang bisa saja tidak akurat dan hanya lokasi perkiraan. Jika tidak berhasil menemukannya, silahkan lihat lokasi terakhir HP jika tersedia</p><p>7. Selain itu, Google punya beberapa fitur lain yang bisa membantu pemilik HP untuk menemukan informasi lokasi ponselnya berada</p><p>8. Putar Suara (Play Sound): Akan membuat HP berdering selama 5 menit tanpa henti walaupun dalam keadaan mode getar atau silent</p><p>9. Amankan Perangkat (Secure Device): Pemilik HP bisa mengunci perangkat menggunakan PIN, pola atau password dan mengirimkan pesan seperti nomor HP ke layar kunci Anda. Hal ini berfungsi untuk mempermudah orang yang menemukan HP untuk menghubungi pemiliknya</p><p>10. Hapus Perangkat (Eraser Device): Pemilik bisa menghapus seluruh data di HP secara permanen. Namun, data-data yang ada di memori eksternal seperti kartu SD mungkin tidak akan terhapus. Perlu dicatat, ketika Anda menggunakan fitur ini, maka aplikasi Find My Device tidak akan berfungsi lagi.</p><p> 3.Dengan Email</p><p>Berikut cara mencari perangkat smartphone yang hilang dengan menggunakan email:</p><p>1. Login ke akun Gmail yang ada di HP melalui aplikasi browser di PC atau laptop</p><p>2. Klik ikon titik sembilan yang ada di bagian kanan atas</p><p>3. Pilih opsi &quot;Akun&quot; dan klik menu &quot;Keamanan&quot;</p><p>4. Setelah itu, cek informasi mengenai perangkat yang memiliki akses Gmail Anda</p><p>5. Pilih HP yang hilang untuk melacaknya, lalu klik tombol &quot;Detail selengkapnya&quot;</p><p>6. Klik opsi menu &quot;Cari perangkat&quot; dan Anda akan diarahkan ke fitur layanan Find My Device milik Google.</p><p>7. Mungkin peta di fitur layanan tersebut tidak menunjukkan lokasi HP secara akurat, tapi cara ini bisa tetap dicoba untuk memperkirakan lokasi terakhir HP Anda.</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Melacak HP Hilang, Dalam Keadaan Mati atau Nyala",
+      "image": "https://cdn.statically.io/img/www.qoala.app/f=auto/id/blog/wp-content/uploads/2021/04/cara-melacak-hp-hilang.jpg",
+      "description": "Dengan WhatsApp atau Google Maps",
+      "link": "<p>4. Dengan WhatsApp</p><p>Anda juga melacak HP yang hilang dengan menggunakan WhatsApp, namun dengan catatan perangkat harus terhubung internet dan berbagi lokasi dengan nomor WA pada smartphone yang hilang. Berikut caranya:</p><p>1. Masuk ke aplikasi WhatsApp menggunakan HP lain dan cari kontak atau nomor WA pada HP yang hilang</p><p>2. Klik kontak tersebut dan pilih ikon &quot;Attach&quot; atau &quot;Lampiran&quot; Setelah itu, pilih ikon lokasi untuk dan klik &quot;Bagikan Lokasi Terkini&quot;</p><p>3. Lalu pilih Lanjut dan akan muncul kotak berisi pilihan jangka waktu berlakunya pembagian lokasi</p><p>4. Pilih waktu berbagi lokasi paling lama yakni 8 jam, lalu tekan dan pilih &quot;Selanjutnya&quot;</p><p>5. Akan muncul lokasi yang Anda bagikan pada nomor WA di HP yang hilang</p><p>6. Klik lokasi yang dibagikan dan pilih kotak bertuliskan &quot;Melihat lokasi terkini pada kotak pilihan&quot;</p><p>7. Lokasi yang dikirimkan tadi bakal muncul di HP penerima lokasi dan secara otomatis penerima bakal mengetahui lokasi Anda</p><p>8. Kemudian klik &quot;Dapatkan arah&quot; dan masuk Google Maps untuk mengarahkan Anda ke lokasi HP yang hilang.</p><p>5. Google Maps</p><p>Untuk langkah antisipasi Anda bisa mengaktifkan fitur 'sharing location' atau berbagi lokasi pada Google Maps dengan orang terpercaya atau akun Google Anda lainnya. Jadi saat HP hilang Anda bisa melacaknya asalkan fitur masih aktif. Simak langkahnya berikut:</p><p>1. Buka aplikasi Google Maps di HP</p><p>2. Klik profil di kanan atas, lalu pilih menu &quot;Location Sharing&quot; atau &quot;Bagikan Lokasi&quot;</p><p>3. Pilih waktu pelacakan antara &quot;Selama satu jam/For 1 hour&quot; atau &quot;Hingga dinonaktifkan user/Until you turn this off&quot;</p><p>4. Akan ada opsi email yang sering Anda akses untuk dipilih</p><p>5. Geser ke kanan dan klik &quot;More&quot; untuk menentukan email yang akan Anda bagikan lokasi terkini</p><p>6. Ketik alamat email yang akan dipercaya untuk berbagi lokasi</p><p>7. Setelah itu, lokasi HP Anda bisa dilacak selama Anda tidak menon-aktifkan fitur berbagi lokasi</p><p>8. Cara ini sangat memudahkan ketika HP hilang. Berbeda dengan aplikasi Find My Device milik Google, cara ini bakal memberikan lokasi yang lebih akurat.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara Melacak HP Hilang, Dalam Keadaan Mati atau Nyala",
+      "image": "https://cdn.law-justice.co/posts/1/2021/2021-05-26/9bfbcd45388c2ead138149adc7bbad2c_1.jpg",
+      "description": "Dengan IMEI, dengan Nomor Telepon atau dengan Akun Khusus",
+      "link": "<p>6. IMEI</p><p>Anda juga bisa menggunakan IMEI (International Mobile Equipment Identity) untuk menemukan HP yang hilang dengan catatan telah tersambung dengan email. Sebagai informasi, IMEI merupakan tanda pengendal yang dimiliki tiap perangkat dan tidak bisa diubah atau dihilangkan serta berbeda antara satu dengan lainnya.</p><p>Untuk menemukan ponsel dengan IMEI, ini caranya:</p><p>1. Ketik *#06# tanpa mengetuk tombol panggilan, lalu nomor IMEI akan langsung muncul secara otomatis.</p><p>2. Buka menu &quot;Settings&quot; di HP > &quot;About Phone&quot; atau &quot;Tentang Ponsel&quot;. Lalu akan muncul informasi mengenai nomor IMEI HP.</p><p>3. Anda bisa meminta tolong pihak kepolisian atau provider melacak ponsel dengan nomor IMEI.</p><p> 7. Nomor Telepon</p><p>1. Buka aplikasi Google Maps dan masuk ke menu &quot;Option&quot;, lalu menuju ke layanan &quot;Friend List&quot;.</p><p>2. Pada layanan Friend List, masukkan nomor HP yang hilang untuk masuk ke proses pencarian.</p><p>3. Setelah itu, klik nomor provider tersebut dan tunggu beberapa saat.</p><p>4. Nantinya, akan muncul informasi terkait lokasi terkini HP yang digunakan pada nomor HP tersebut.</p><p>5. Anda bisa mengikuti rute tersebut menggunakan bantuan Google Maps.</p><p> 8. Akun Khusus</p><p>Anda bisa menggunakan akun khusus sesuai dengan merek smartphone. Pengguna iPhone dengan iCloud, Samsung menggunakan Find My Mobile, dan Xiaomi dengan bantuan Mi Cloud.</p><p>Pertama log in pada browser dan masukkan alamat email atau informasi akun khusus yang terhubung dengan HP yang hilang. Berikutnya Anda dapat melacak lokasinya atau mengamankan data yang ada dalam perangkat.</p>"
+    }
+  ]
+}
