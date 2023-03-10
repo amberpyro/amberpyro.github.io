@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara Daftar SNBP",
+      "image": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/11/18/5fb517410380a-siswa-belajar-online_665_374.jpg",
+      "description": "Tahap awal pendaftaran",
+      "link": "<p>Cara Daftar SNBP</p><p>Sebagai tahap awal pendaftaran yang harus dilakukan peserta adalah melakukan pendaftaran Akun SNBP untuk mempersiapkan apabila nanti pendaftaran dibuka. Semua peserta calon SNBP wajib melakukan pendaftaran akun terlebih dahulu jauh sebelum pendaftaran SNBP dibuka. Untuk memastikan apakah mendapatkan rekomendasi sekolah, setiap siswa/i bisa langsung menanyakan hal tersebut ke kantor sekolah, jika sudah pasti mendapatkan rekomendasi segera untuk daftar akun terlepas dari lulus atau tidak pemeringkatan setiap calon peserta SNBP wajib membuat akun SNBP.</p><p>Untuk mendaftar dapat dilaksanakan secara mandiri tanpa harus melibatkan sekolah caranya mengakses situs resmi snpmb.bpp.kemdikbud.go.id klik daftar, isi form, aktivasi, login dan terakhir verifikasi, apabila pendaftaran akun selesai tahap selanjutnya yang harus dilakukan peserta adalah menunggu hasil pemeringkatan dari sekolah. Bagi yang lulus bisa mendaftar SNBP, sedangkan yang tidak lulus tidak perlu berkecil hati bisa ikut jalur lainnya, untuk data akun yang sudah terisi tidak akan sia-sia karena semua data sudah tersingkronisasi apabila ada jalur lain yang mewajibkan peserta membuat akun SNBP lagi tidak perlu mengisi dari awal, cukup menggunakan data lama dan verifikasi saja. Proses pendaftaran akun dilakukan satu bulan lebih dalu baru pendaftaran dibuka, untuk bisa mendaftar wajib login ke snpmb.bpp.kemdikbud.go.id oleh sebab itu peserta wajib memiliki akun SNBP, tanpa akun tersebut meski lulus pemeringkatan tidak akan bisa mendaftar SNBP Bagi yang mau mendaftar akun SNBP silahkan kordinasi dengan sekolah atau bisa langsung berinisiatif untuk melakukan pendaftaran Akun. Untuk yang belum mengetahui cara mendaftar Akun SNBP dapat mengikuti panduan dibawah ini, siapkan data seperti KTP, data rapot, email aktif, kemudian ikuti caranya seperti dibawah ini untuk lebih jelas simak seperti berikut ini.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Daftar SNBP",
+      "image": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/11/18/5fb517410380a-siswa-belajar-online_665_374.jpg",
+      "description": "Daftar & Aktivasi Akun",
+      "link": "<p>Daftar &amp; Aktivasi Akun</p><p>1. Kunjungi situs resmi snpmb.bpp.kemdikbud.go.id atau bisa browsing di google ketikan daftar akun SNBP 2. Pilih Menu siswa Klik &quot;Daftar&quot; 3. Isi NISN, NPSN, Tanggal Lahir, 4. Khusus siswa luar negeri yang berasal dari sekolah Non SRI dapat menggunakan NPSN. 5. klik menu &quot;Selanjutnya&quot;  6. Isi alamat email, password, dan biodata lainnya. 7. Pastikan semua data pada form online diisi semuanya. 8. Jangan lupa Kirim form. 9. Setelah itu akan muncul notifikasi aktivasi akun, silahkan buka email terdaftar 10. Lakukan aktivasi akun. 11. Selesai</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Daftar SNBP",
+      "image": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/11/18/5fb517410380a-siswa-belajar-online_665_374.jpg",
+      "description": "Login & Verifikasi",
+      "link": "<p>Login &amp; Verifikasi</p><p>1. Kunjungi kembali situs resmi snpmb.bpp.kemdikbud.go.id 2. Masukan email dan Password terdaftar. 3. Klik &quot;Masuk&quot; 4. Nantinya akan menuju ke dasboard portal SNBP 5. Pilih Menu Verifikasi Data Siswa. 6. Periksa data sebelum melakukan verifikasi. 7. Lengkapi data seperti NIK, alamat, agama, nomor hp, dan biodata lainnya. 8. Pastikan agar tidak salah mengisi data agar tidak perlu melakukan perubahan. 9. Klik Perbarui Data. 10. Nantinya akan menuju Riwayat Pendidikan seperti data sekolah, jika dibutuhkan perbarui data. 11. Klik Selanjutnya, upload pas foto sesuai ketentuan formal dan yang terbaru. 12. Setelah selesai semua ceklist pernyataan 13. Simpan Permanen. 14. Proses pembuatan akun selesai</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara Daftar SNBP",
+      "image": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/11/18/5fb517410380a-siswa-belajar-online_665_374.jpg",
+      "description": "Selanjutnya",
+      "link": "<p>Setelah pembuatan akun selesai tinggal tunggu pengisian data oleh sekolah, kemudian sekolah akan mengumumkan pemeringkatan, baru kemudian dapat digunakan untuk mendaftar SNBP, yang perlu diperhatikan saat mendaftar Akun SNBP adalah melakukan aktivasi akun belum cukup untuk menyelesaikan rangkain pembuatan akun, harus sampai pada tahap verifikasi dan validasi apabila semua selesai baru akun siap digunakan. Semoga bermanfaat.</p>"
+    }
+  ]
+}
