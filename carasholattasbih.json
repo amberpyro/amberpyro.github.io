@@ -1,0 +1,116 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara Sholat Tasbih",
+      "image": "cara_sholat_tasbih_0.jpg",
+      "description": "Langkah 1",
+      "link": "<p>Para ulama berbeda pendapat tentang hukum sholat tasbih, sesuai dengan pendapat mereka tentang hadits terkait sholat tasbih. Sejumlah ulama yang berpendapat hukum sholat tasbih adalah sunah yaitu guru al Bukhari Ibnuk Mubarok, ad-Daraquthny, al-Khotib al-Baghdadi, al-Hakim, al-Hafidz Ibnu Hajar al-Asqolaany, dan al-Albany.</p><p>Dalam hadits riwayat, dari Ibnu Abbas ra,</p><p>&apos;Rasullah SAW berkata kepada Abbas bin Abdil Muntholib: Wahai Abbas wahai pamanku, maukah engkau aku beri suatu pemberian, aku berikan suatu anugrah, aku berikan. Maukan engkau melakukan 10 hal yang jika engkau lakukan itu, Allah akan mengampuni dosamu yang sejak awal hingga akhir, yang lama maupun yang baru, ketidaksengajaan maupun sengaja, yang kecil maupun yang besar, yang tersembunyi maupun yang terang-terangan.</p><p>Sepuluh hal itu adalah engkau sholat 4 rakaat. Pada setiap rakaat membaca al-Fatihan dan surat. Jika engkau telah selesai dari membaca di awal rakaat, dalam keadaan berdiri, ucapkan &apos;subhanaallah walhamdulillah wa laa ilaaha illallahy wallaahu akbar&apos; 15 kali.</p><p>Kemudian engkau rukuk dan mengucapkannya dalam rukuk 10 kali. Kemudian engkau bangkit dari rukuk, engkau ucapkan 10 kali. Kemudian turunlah menuju sujud. Dalam keadaan sujud, bacalah 10 kali. Kemudian bangkit dari sujud (sebelum berdiri), bacalah 10 jali. Yang demikian sebanyak 75 kali dalam setiap rakaat. Engkau lakukan hal itu dalam setiap rakaat.</p><p>Jika engkau mampu melakukannya setiap hari sekali, lakukanlah. Jika tidak, maka setiap Jumat sekali. Jika tidak, setiap bulan sekali. Jika tidak, setiap tahun sekali. Jika tidak, maka (minimal) sekali dalam umurmu.&apos; (H.R. Abu Dawud, at-Tirmidzi, Ibnu Majah, dishahihkan al-Albany)</p><p>1. Berdiri menghadap kiblat sambil mengukuhkan niat dalam hati untuk melaksanakan sholat tasbih karena Allah SWT. Niat sholat tasbih yaitu:</p><p>Sengaja aku sholat sunah tabsih empat rakaat karena Allah SWT.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Sholat Tasbih",
+      "image": "cara_sholat_tasbih_1.jpeg",
+      "description": "Langkah 2",
+      "link": "<p>2. Takbiratul ihram sambil membaca Allahu akbar</p><p>3. Membaca doa iftitah dan surat Al Fatihah</p><p>4. Membaca ayat atau surat dari al Qur&apos;an</p><p>5. Membaca bacaan tasbih sebanyak 15 kali sebagai berikut:</p><p>&apos;Subhanallaahi walhamdulillahi walaa ilaaha illallaahu wallaahu akbar.&apos;</p><p>Artinya: Mahasuci Allah, segala puji bagi Allah, tidak ada Tuhan selain Allah, Allah Mahabesar.</p><p><br></p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Sholat Tasbih",
+      "image": "cara_sholat_tasbih_2.jpg",
+      "description": "Langkah 3",
+      "link": "<p>7. Rukuk dan membaca bacaan rukuk, lalu membaca tasbih 10 kali</p><p>8. I&apos;tidal dan membaca bacaan i&apos;tidal, lalu membaca tasbih 10 kali</p><p>9. Sujud dan membaca bacaan sujud, lalu membaca tasbih 10 kali</p><p>10. Duduk di antara dua sujud dan membaca bacaan doa duduk antara dua judu, lalu membaca tasbih 10 kali</p><p>11. Sujud kedua dengan membaca bacaan doa sujud, lalu membaca tasbih 10 kali</p><p>12. Duduk sejenak sambil membaca tasbih 10 kali, lalu bangkit berfiri untuk rakaat selanjutnya</p><p>Nah, itu dia tata cara sholat tasbih, mulai dari niat hingga rampung rakaat keempat. Semoga makin istiqamah menjalankan ibadah sunah!</p><p><br></p>"
+    }
+  ]
+}
