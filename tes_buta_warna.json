@@ -111,5 +111,279 @@
       "title":"Super Car",
       "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
     }
+  ],
+    "Level": [
+    {
+      "level_number": "Level 1",
+      "number": 1
+    },
+    {
+      "level_number": "Level 2",
+      "number": 2
+    },
+    {
+      "level_number": "Level 3",
+      "number": 3
+    },
+    {
+      "level_number": "Level 4",
+      "number": 4
+    }
+    ,{
+      "level_number": "Level 5",
+      "number": 5
+    }
+  ],
+  "Question": [
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_01_8_Ishihara_Plate_02_38.png",
+      "answer": "8",
+      "instruction": "Delapan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_02_6_Ishihara_Plate_03_38.png",
+      "answer": "6",
+      "instruction": "Enam"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_03_29_Ishihara_Plate_04_38.png",
+      "answer": "29",
+      "instruction": "Dua Sembilan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_04_57_Ishihara_Plate_05_38.png",
+      "answer": "57",
+      "instruction": "Lima Tujuh"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_05_5_Ishihara_Plate_06_38.png",
+      "answer": "5",
+      "instruction": "Lima"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_06_3_Ishihara_Plate_07_38.png",
+      "answer": "3",
+      "instruction": "Tiga"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_07_15_Ishihara_Plate_08_38.png",
+      "answer": "15",
+      "instruction": "Lima Belas"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_08_74_Ishihara_Plate_09_38.png",
+      "answer": "74",
+      "instruction": "Tujuh Empat"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_09_2_Ishihara_Plate_10_38.png",
+      "answer": "2",
+      "instruction": "Dua"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_10_6_Ishihara_Plate_11_38.png",
+      "answer": "6",
+      "instruction": "Enam"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_01_96_Ishihara_Plate_25_38.png",
+      "answer": "96",
+      "instruction": "Sembilan Enam"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_02_35_Ishihara_Plate_24_38.png",
+      "answer": "35",
+      "instruction": "Tiga Lima"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_03_42_Ishihara_Plate_23_38.png",
+      "answer": "42",
+      "instruction": "Empat Dua"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_04_26_Ishihara_Plate_22_38.png",
+      "answer": "26",
+      "instruction": "Dua Enam"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_05_73_Ishihara_Plate_17_38.png",
+      "answer": "73",
+      "instruction": "Tujuh Tiga"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_06_16_Ishihara_Plate_16_38.png",
+      "answer": "16",
+      "instruction": "Enam Belas"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_07_7_Ishihara_Plate_15_38.png",
+      "answer": "7",
+      "instruction": "Tujuh"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_08_5_Ishihara_Plate_14_38.png",
+      "answer": "5",
+      "instruction": "Lima"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_09_45_Ishihara_Plate_13_38.png",
+      "answer": "45",
+      "instruction": "Empat Lima"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_10_97_Ishihara_Plate_12_38.png",
+      "answer": "97",
+      "instruction": "Sembilan Tujuh"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_01_12_Ishihara Plate 01_38.png",
+      "answer": "12",
+      "instruction": "Dua Belas"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_02.webp",
+      "answer": "TRUK",
+      "instruction": "Kendaraan pengangkut barang logistik dll"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_03.webp",
+      "answer": "PESAWAT",
+      "instruction": "Burung besi yang bisa terbang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_04.webp",
+      "answer": "KAPAL LAUT",
+      "instruction": "Transportasi laut seperti Titanci"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_05.webp",
+      "answer": "KERETA API",
+      "instruction": "Transportasi yang memiliki jalur sendiri"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_06.webp",
+      "answer": "BECAK",
+      "instruction": "Kendaraan tradisional yang di kayuh"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_07.webp",
+      "answer": "BULLDOZER",
+      "instruction": "Kendaraan berat untuk konstruksi"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_08.webp",
+      "answer": "EXAPATOR",
+      "instruction": "Kendaraan berat seperti jerapah"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_09.webp",
+      "answer": "MOTOR",
+      "instruction": "Kendaraan favorit sejuta umat"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_10.webp",
+      "answer": "SEPEDA",
+      "instruction": "Kendaraan non mesin untuk olahraga"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_01.webp",
+      "answer": "TELEVISI",
+      "instruction": "Alat favorit sejuta umat untuk menonton"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_02.webp",
+      "answer": "RADIO",
+      "instruction": "Tempat kirim-kirim pesan ke gebetan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_03.webp",
+      "answer": "MESIN CUCI",
+      "instruction": "Sekali kali baju bersih, dan hasilnya kusut"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_04.webp",
+      "answer": "LAPTOP",
+      "instruction": "Komputer jinjing dan portable"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_05.webp",
+      "answer": "PRINTER",
+      "instruction": "Cetak dokumen digital"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_06.webp",
+      "answer": "SMARTPHONE",
+      "instruction": "Satu alat bangak fungsi dalam satu genggaman"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_07.webp",
+      "answer": "KOMPUTER",
+      "instruction": "Alat yang dipakai untuk mengolah data menurut prosedur yang telah dirumuskan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_08.webp",
+      "answer": "JAM TANGAN",
+      "instruction": "Petunjuk waktu dan penambah level kegantengan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_09.webp",
+      "answer": "REMOT",
+      "instruction": "Operasi dari tangan untuk barang elektronik"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_10.webp",
+      "answer": "KULKAS",
+      "instruction": "Tempat penyimpanan makanan dan minuman"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_01.webp",
+      "answer": "SEPATU",
+      "instruction": "_ _ P _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_02.webp",
+      "answer": "DOMPET",
+      "instruction": "_ O _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_03.webp",
+      "answer": "TAS DOMPET",
+      "instruction": "_ A _  _ _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_04.webp",
+      "answer": "TAS GUNUNG",
+      "instruction": "_ _ _  _ _ _ _ N _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_05.webp",
+      "answer": "KACA MATA RENANG",
+      "instruction": "_ A _ _  _ _ _ _  _ _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_06.webp",
+      "answer": "KACA MATA BACA",
+      "instruction": "_ _ _ _  M _ _ _  _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_07.webp",
+      "answer": "SANDAL",
+      "instruction": "S _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_08.webp",
+      "answer": "JAKET",
+      "instruction": "_ A _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_09.webp",
+      "answer": "SWEETER",
+      "instruction": "_ W _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_10.webp",
+      "answer": "SI GANTENG",
+      "instruction": "Panggilan Rysa Sahrial si mpu Aliendroid"
+    }
   ]
 }
